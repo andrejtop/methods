@@ -1,0 +1,19 @@
+{
+  "name": "methods",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrejtop/methods.git"
+  },
+  "author": "Andrey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrejtop/methods/issues"
+  },
+  "homepage": "https://github.com/andrejtop/methods#readme"
+}
